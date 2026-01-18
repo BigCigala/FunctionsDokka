@@ -1,0 +1,22 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:Activities_1////PointingToDeclaration/-functions/Activities_1/index.html
+$dokka.location:Activities_1/Activitat 1Kt///PointingToDeclaration/-functions/Activities_1/-activitat 1-kt/index.html
+$dokka.location:Activities_1/Activitat 1Kt/main/#/PointingToDeclaration/-functions/Activities_1/-activitat 1-kt/main.html
+$dokka.location:Activities_1/Activity 1Kt///PointingToDeclaration/-functions/Activities_1/-activity 1-kt/index.html
+$dokka.location:Activities_1/Activity 1Kt/areaCalculator/#kotlin.Int#kotlin.Int/PointingToDeclaration/-functions/Activities_1/-activity 1-kt/area-calculator.html
+$dokka.location:Activities_1/Activity 1Kt/discount/#kotlin.Double#kotlin.Double/PointingToDeclaration/-functions/Activities_1/-activity 1-kt/discount.html
+$dokka.location:Activities_1/Activity 1Kt/doubleDecimal/#kotlin.Double/PointingToDeclaration/-functions/Activities_1/-activity 1-kt/double-decimal.html
+$dokka.location:Activities_1/Activity 1Kt/doublingNumbers/#kotlin.Int/PointingToDeclaration/-functions/Activities_1/-activity 1-kt/doubling-numbers.html
+$dokka.location:Activities_1/Activity 1Kt/helloUser/#java.util.Scanner/PointingToDeclaration/-functions/Activities_1/-activity 1-kt/hello-user.html
+$dokka.location:Activities_1/Activity 1Kt/multiplyTheSumWithRemainder/#kotlin.Int#kotlin.Int#kotlin.Int#kotlin.Int/PointingToDeclaration/-functions/Activities_1/-activity 1-kt/multiply-the-sum-with-remainder.html
+$dokka.location:Activities_1/Activity 1Kt/showNumber/#kotlin.Int/PointingToDeclaration/-functions/Activities_1/-activity 1-kt/show-number.html
+$dokka.location:Activities_1/Activity 1Kt/studentsForClassrooms/#kotlin.Int#kotlin.Int#kotlin.Int/PointingToDeclaration/-functions/Activities_1/-activity 1-kt/students-for-classrooms.html
+$dokka.location:Activities_1/Activity 1Kt/sumNumbers/#kotlin.Int#kotlin.Int/PointingToDeclaration/-functions/Activities_1/-activity 1-kt/sum-numbers.html
+$dokka.location:Activities_1/Activity 1Kt/superficiate/#kotlin.Double/PointingToDeclaration/-functions/Activities_1/-activity 1-kt/superficiate.html
+$dokka.location:Activities_2////PointingToDeclaration/-functions/Activities_2/index.html
+$dokka.location:Activities_2/Activitat 2Kt///PointingToDeclaration/-functions/Activities_2/-activitat 2-kt/index.html
+$dokka.location:Activities_2/Activitat 2Kt/main/#/PointingToDeclaration/-functions/Activities_2/-activitat 2-kt/main.html
+Activities_1
+Activities_2
+
