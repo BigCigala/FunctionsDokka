@@ -5,7 +5,7 @@ package Activities_1
 // with the remainder of third with fourth
 /**
  * # Multiply the Sum with Remainder
- * We sum number 1 with 2, then we multiply with the remainder of 3 with 4
+ * ##We sum number 1 with 2, then we multiply with the remainder of 3 with 4
  * @author Ferran Martínez I Gilabert
  * @param num1 Dada type Integer
  * @param num2 Dada type Integer

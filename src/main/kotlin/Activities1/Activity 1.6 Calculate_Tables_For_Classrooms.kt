@@ -6,7 +6,7 @@ package Activities_1
 
 /**
  * #Students for Classrooms
- * Three Classrooms, calculate the number of students for Each classroom, knowing that for Each table we need 2 students
+ * ##Three Classrooms, calculate the number of students for Each classroom, knowing that for Each table we need 2 students
  *
  * @author Ferran Martínez I Gilabert
  *

@@ -4,7 +4,7 @@ package Activities_1
 //Enunciated : Read Decimal number & get the Double
 /**
  * #Double of Decimal
- * Read a Decimal and get the Double
+ * ##Read a Decimal and get the Double
  *
  * @author Ferran Martínez I Gilabert
  * @param number Dada type Double

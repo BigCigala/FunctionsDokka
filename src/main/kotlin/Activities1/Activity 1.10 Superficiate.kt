@@ -4,7 +4,7 @@ package Activities_1
 //Enunciated : Read the diameter from a pizza and print the superficiate. You can use Math.PI.
 /**
  * #Superficiate
- * We calculate the radius from the diameter & print the superficiate
+ * ##We calculate the radius from the diameter & print the superficiate
  *
  * @author Ferran Martínez I Gilabert
  * @param diameter Dada type Double

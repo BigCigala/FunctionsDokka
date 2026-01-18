@@ -25,6 +25,6 @@ kotlin {
 tasks.test {
     useJUnitPlatform()
 }
-tasks.dokkaHtml.configure {
-    outputDirectory.set(project.layout.buildDirectory.dir("dokka"))
+tasks.dokkaHtml {
+    outputDirectory.set(buildDir.resolve("dokka/html"))
 }

@@ -8,7 +8,7 @@ import java.util.*
 // Enunciated : Wrote a Program that prints “Hello World!”.
 /**
  * #Hello World
- * We print a text Hello World regardless of what you have written.
+ * ##We print a text Hello World regardless of what you have written.
  *
  * @author Ferran Martínez I Gilabert
  * @param text Dada type Scanner

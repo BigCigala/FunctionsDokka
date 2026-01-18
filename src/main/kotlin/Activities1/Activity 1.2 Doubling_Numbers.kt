@@ -3,8 +3,7 @@ package Activities_1
 // Enunciated : Write a program that from a number in the entrance return the double of their value.
 /**
  * # Doubling Numbers
- *
- * Make the double from an Integer number
+ * ##Make the double from an Integer number
  *
  * @author Ferran Martínez I Gilabert
  * @param number Dada type Integer

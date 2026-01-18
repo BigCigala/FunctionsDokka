@@ -4,7 +4,7 @@ package Activities_1
 //Enunciated : Read the original price & actual Price and Print the discount in %.
 /**
  * #Discount %
- * Read actual price and original price and return the discount
+ * ##Read actual price and original price and return the discount
  *
  * @author Ferran Martínez I Gilabert
  * @param originalPrice Dada type Double

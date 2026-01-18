@@ -3,7 +3,7 @@ package Activities_1
 //Enunciated : Wrote a program that from 2 numbers returns the sum of that numbers.
 /**
  * #Sum numbers
- * Sum number 1 and number 2 to get the result of their sum
+ * ##Sum number 1 and number 2 to get the result of their sum
  *
  * @author Ferran Martínez I Gilabert
  *

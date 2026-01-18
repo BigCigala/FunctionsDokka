@@ -4,7 +4,7 @@ package Activities_1
 //Enunciated : Wrote a Program that Read an Int and Print a phrase with the next Int Number.
 /**
  * #Show Number
- * Read an Integer and show the next number.
+ * ##Read an Integer and show the next number.
  *
  * @author Ferran Martínez I Gilabert
  * @param number Dada Type Scanner
